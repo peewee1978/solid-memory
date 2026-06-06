@@ -1,0 +1,4 @@
+# Automation requirements for email and model jobs
+sendgrid
+python-dotenv
+joblib
