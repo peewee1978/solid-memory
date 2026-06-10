@@ -2,3 +2,4 @@
 sendgrid
 python-dotenv
 joblib
+numpy
